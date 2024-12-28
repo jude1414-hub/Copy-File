@@ -18,12 +18,12 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
-  #Developed by: Jude Clement Jose G
-  #Register Number: 24005310
-  with open("text1.txt", 'r') as fp:
-      msg=fp.read()
-  with open("copy.txt", 'w') as fp1:
-      fp1.write(msg)
+    #Developed by: Jude Clement Jose G
+    #Register Number: 24005310
+    with open("text1.txt", 'r') as fp:
+        msg=fp.read()
+    with open("copy.txt", 'w') as fp1:
+        fp1.write(msg)
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/866f0b23-4c90-40dd-8667-ff0555841850)
 
