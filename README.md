@@ -18,9 +18,8 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
-  #Developed by: Aankarsh . j
-  #Register Number: 22304386
-  
+  #Developed by: Jude Clement Jose G
+  #Register Number: 24005310
   with open("text1.txt", 'r') as fp:
       msg=fp.read()
   with open("copy.txt", 'w') as fp1:
